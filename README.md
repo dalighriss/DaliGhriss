@@ -6,10 +6,10 @@
 ---
 
 ### 🧠 About Me  
-🎓 **Information Technology student** at *ISET Kasserine*  
-🚀 Passionate about **web development** and **software engineering** 
-💡 I love exploring new technologies and frameworks*
-🎯 My goal: to become a **skilled full-stack developer** ready for real-world challenges
+🎓 **Information Technology student**   
+🚀 Passionate about **web development** and **software engineering** <br>
+💡 I love exploring new technologies and frameworks*<br>
+🎯 My goal: to become a **skilled full-stack developer** ready for real-world challenges <br>
 
 ---
 
