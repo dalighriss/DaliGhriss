@@ -16,11 +16,14 @@
 ### 🛠️ Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express" />
   <img src="https://img.shields.io/badge/MongoDB-brightgreen?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/.NET-blueviolet?style=for-the-badge&logo=dotnet" />
 </p>
 
 ---
