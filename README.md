@@ -8,20 +8,19 @@
 ### 🧠 About Me  
 🎓 **Information Technology student**at *ISET Kasserine*  
 🚀 Passionate about **web development** and **software engineering** 
-💡 I love exploring new technologies and frameworks
-🎯 My goal: to become a **skilled full-stack developer** ready for real-world challenges  
+💡 I love exploring new technologies and frameworks.
+🎯 My goal: to become a **skilled full-stack developer** ready for real-world challenges  .
 
 ---
 
 ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Angular-red?style=for-the-badge&logo=angular" />
+  <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular" />
   <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Framework-Express.js-black?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Desktop-.NET-blueviolet?style=for-the-badge&logo=dotnet" />
-  <img src="https://img.shields.io/badge/Tools-VSCode%20%7C%20Postman%20%7C%20XAMPP-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/MongoDB-brightgreen?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/.NET-blueviolet?style=for-the-badge&logo=dotnet" />
 </p>
 
 ---
