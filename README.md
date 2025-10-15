@@ -8,7 +8,7 @@
 ### 🧠 About Me  
 🎓 **Information Technology student**   
 🚀 Passionate about **web development** and **software engineering** <br>
-💡 I love exploring new technologies and frameworks*<br>
+💡 I love exploring new technologies and frameworks<br>
 🎯 My goal: to become a **skilled full-stack developer** ready for real-world challenges <br>
 
 ---
