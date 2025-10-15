@@ -1,13 +1,13 @@
 <!-- 👋 Hi there — welcome to my profile! -->
 
 <h1 align="center">Hi, I'm Dali Ghriss 👋</h1>
-<h3 align="center">💻 Passionate IT Student & Web Developer from Tunisia</h3>
+<h3 align="center">💻 Passionate IT Student & Web Developer </h3>
 
 ---
 
 ### 🧠 About Me  
-🎓 **Information Technology student** at *ISET Kasserine*  
-🚀 Passionate about **web development**, **software engineering**, and **system design**  
+🎓 **Information Technology student**at *ISET Kasserine*  
+🚀 Passionate about **web development** and **software engineering** 
 💡 I love exploring new technologies and frameworks
 🎯 My goal: to become a **skilled full-stack developer** ready for real-world challenges  
 
